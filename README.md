@@ -1,62 +1,63 @@
-<h2 align="left">Hi!! My name is John...</h2>
+<h1 align="center">Hi there 👋, I'm John!</h1>
+<h3 align="center">🚀 Developer | 🎮 Gamer | ☕ Coffee Enthusiast</h3>
 
-###
+<p align="center">
+  👨🏽‍💻 Systems Engineer in training  
+  💡 Building creative software  
+  🌐 Web development  
+  🗄️ Databases  
+  🎮 Game development
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spartan-876&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spartan-876&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Spartan-876&show_icons=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spartan-876&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
-<h2 align="left">Coding experience with</h2>
-<img align="right" height="150" src="https://media.tenor.com/S29qlVlvPSkAAAAM/jhin-league-of-legends.gif" />
+### 🛠️ Tech Stack & Tools
 
-<br><br>
+<img align="right" height="150" src="https://media.tenor.com/S29qlVlvPSkAAAAM/jhin-league-of-legends.gif" alt="Coding GIF" />
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="godot logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="Godot" />
 </div>
 
-<br><br>
+---
 
-<h2 align="left">Social Media....</h2>
-
-###
+### 🌐 Connect With Me
 
 <div align="left">
   <a href="https://x.com/jcm_spartan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="X" />
   </a>
   <a href="https://www.instagram.com/jchm_867/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="https://www.twitch.tv/ispartan008i" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
   </a>
   <a href="https://www.linkedin.com/in/john-anderson-chapo%C3%B1an-m-a92263349/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">Listening</h2>
-
-###
+### 🎧 Currently Listening To
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21cqet5i7ryprj7uw6gar5i7q&unique=true" alt="Spotify Recently Played" />
 </div>
+
