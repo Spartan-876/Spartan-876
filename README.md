@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm John!</h1>
-<h3 align="center">🚀 Developer | 🎮 Gamer | ☕ Coffee Enthusiast</h3>
 
-<p align="center">
+---
+
+### 👨🏽‍💻 About Me
   👨🏽‍💻 Systems Engineer in training  
   💡 Building creative software  
   🌐 Web development  
   🗄️ Databases  
   🎮 Game development
-</p>
 
 ---
 
