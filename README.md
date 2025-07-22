@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spartan-876&show_icons=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spartan-876&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Spartan-876&theme=dark&hide_border=false" height="150" alt="GitHub Streak Stats" />
 </div>
 
 ---
