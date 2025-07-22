@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
@@ -36,7 +36,7 @@
 
 ### 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
   <a href="https://x.com/jcm_spartan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="X" />
   </a>
