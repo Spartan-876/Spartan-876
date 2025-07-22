@@ -22,8 +22,6 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<img align="right" height="150" src="https://media.tenor.com/S29qlVlvPSkAAAAM/jhin-league-of-legends.gif" alt="Coding GIF" />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
