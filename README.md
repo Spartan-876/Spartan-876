@@ -1,65 +1,88 @@
-<h1 align="center">Hi there 👋, I'm John!</h1>
+<h1 align="center">John Anderson Chapoñan Montaño</h1>
+<h3 align="center">Software Developer | Backend Java & Spring Boot | Full Stack | Sistemas de Gestión</h3>
 
----
-
-### 👨🏽‍💻 About Me
-  👨🏽‍💻 Systems Engineer in training  
-  💡 Building creative software  
-  🌐 Web development  
-  🗄️ Databases  
-  🎮 Game development
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spartan-876&show_icons=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spartan-876&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="Godot" />&nbsp;&nbsp;
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://x.com/jcm_spartan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="X" />&nbsp;&nbsp;
+<p align="center">
+  <a href="www.linkedin.com/in/john-anderson-chapoñan-m-a92263349" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/jchm_867/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />&nbsp;&nbsp;
+  <a href="mailto:johnandersonchaponanm@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
-  <a href="https://www.twitch.tv/ispartan008i" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/john-anderson-chapo%C3%B1an-m-a92263349/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />&nbsp;&nbsp;
-  </a>
-</div>
-
+</p>
 ---
+ 
+## 🧑🏽‍💻 Perfil profesional
+ 
+Desarrollador de software con formación en Ingeniería de Sistemas, enfocado en el diseño y desarrollo de **aplicaciones backend con Java y Spring Boot**, y **sistemas de gestión** (inventario, ventas, almacenes) que resuelven necesidades reales de negocio. Experiencia complementaria en **desarrollo full stack** (integración de interfaces web con APIs y bases de datos) y manejo de bases de datos relacionales y no relacionales.
+ 
+Busco aportar soluciones robustas, mantenibles y escalables, aplicando buenas prácticas de arquitectura de software y control de versiones.
+ 
+---
+ 
+## 🛠️ Competencias técnicas
+ 
+**Backend**
+- Java, Spring Boot
+- Diseño de APIs REST
+- Arquitectura por capas (Modelo–Vista–Controlador / Servicios–Repositorios)
+**Frontend / Full Stack**
+- JavaScript, React
+- HTML5, CSS3, Bootstrap
+- Node.js
+**Bases de datos**
+- MySQL (modelado relacional, consultas, procedimientos)
+- MongoDB (modelado de documentos)
+**Otras herramientas**
+- Git & GitHub (control de versiones, flujo colaborativo)
+- Godot (motor de videojuegos, como proyecto complementario de desarrollo de software)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="38" height="38" alt="Godot"/>
+</p>
+---
+ 
+## 📁 Proyectos destacados
+ 
+| Proyecto | Descripción | Rol / Enfoque | Tecnología |
+|---|---|---|---|
+| [Acuamont-System](https://github.com/Spartan-876/Acuamont-System) | Sistema de gestión para tienda Acuamont: control de productos, ventas y stock | Desarrollo backend | Spring Boot, Thymeleaf, Node.js |
+| [Recksi-System](https://github.com/Spartan-876/Recksi-System) | Sistema de gestión de almacén para proveedor de agua embotellada | Diseño de lógica de negocio y persistencia de datos | Spring Boot |
+| [Basurapp-MPCH](https://github.com/Spartan-876/Basurapp-MPCH) | App móvil de recolección de residuos con panel administrativo web y servidor de rutas | Desarrollo full stack (backend, app móvil y panel admin) | Spring Boot (backend), Kotlin (app móvil), React/TypeScript (panel admin), Docker |
+| [The-Forest-College](https://github.com/Spartan-876/The-Forest-College) | Sistema de gestión universitaria | Colaboración / desarrollo backend | Java |
+| [TallerdeProg](https://github.com/Spartan-876/TallerdeProg) | Ejercicios y proyectos de fundamentos de programación | Práctica de algoritmos y estructuras | Java |
+ 
+> 📌 Cada proyecto refleja un caso de uso real de gestión empresarial, aplicando lógica de negocio, persistencia de datos y buenas prácticas de programación orientada a objetos.
+ 
+---
+ 
+## 🤝 Proyectos colaborativos
+ 
+Además del trabajo individual, participo en desarrollo en equipo a través de la organización estudiantil **[UTP-Organization](https://github.com/Herramientas-Group)** (alumnos de la UTP para el desarrollo de proyectos):
+ 
+| Proyecto | Descripción | Tecnología |
+|---|---|---|
+| [Acuamont](https://github.com/Herramientas-Group/Acuamont) | Versión colaborativa del sistema de gestión Acuamont, desarrollado en equipo | Angular, Spring Boot |
+| [APP-MUSIC](https://github.com/Herramientas-Group/APP-MUSIC) | Aplicación web de música desarrollada en equipo | HTML |
+ 
+> 👥 Estos proyectos reflejan experiencia trabajando en equipo: control de versiones colaborativo, división de tareas y desarrollo conjunto de funcionalidades.
+ 
+---
+ 
+## 📊 Actividad en GitHub
+ 
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Spartan-876&show_icons=true&count_private=true&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spartan-876&layout=compact&langs_count=6&theme=dark&hide_border=false&cache_seconds=86400" alt="Top Languages"/>
+</p>
 
-### 🎧 Currently Listening To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21cqet5i7ryprj7uw6gar5i7q&unique=true" alt="Spotify Recently Played" />
-</div>
-
+ 
